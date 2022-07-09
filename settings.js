@@ -22,7 +22,7 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['66855048169'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['66855048169','79999029953'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['66855048169'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '66855048169' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
@@ -36,13 +36,13 @@ global.footer = 'Nan' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.youtube = 'https://youtu.be/lBN5szPGGDA'
 global.ig = 'https://instagram.com/itsme_nitsu'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.myweb = 'https://instagagram.com/itsme_nitsu'
+global.email = 'jkasmprn@gmail.com'
+global.region = 'Thailand'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Sakkarin-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Nan' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
